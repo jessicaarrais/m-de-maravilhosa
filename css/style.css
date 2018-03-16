@@ -106,7 +106,6 @@ header {
     background: url(../img/bg-banner-claro.png);
     background-size: cover;
     min-height: 50vh;
-    background-repeat: no-repeat;
     background-position: 46%;
 }
 
